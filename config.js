@@ -70,7 +70,7 @@ let config = {
             alignment: 'left',
             hidden: false,
             title: title1,
-            image: 'truckroutes/images/image1.jpeg',
+            image: 'https://www.aiany.org/wp-content/uploads/2022/06/Salitsky_Headshot-1280x1126-1.jpeg',
             description: description1,
             location: {
                 center: [-73.993935, 40.647068],
@@ -99,7 +99,7 @@ let config = {
             alignment: 'right',
             hidden: false,
             title: title2,
-            image: 'truckroutes/images/image2.jpg',
+            image: 'https://www.observerbd.com/2019/07/05/observerbd.com_1562342613.jpg',
             description: description2,
             location: {
                 center: [ -73.9396060, 40.7062100],
@@ -124,7 +124,7 @@ let config = {
             alignment: 'left',
             hidden: false,
             title: title3,
-            image: 'images/image3.webp',
+            image: 'https://nyc.streetsblog.org/wp-content/uploads/2018/01/flores-kevin.png?w=600',
             description: description3,
             location: {
                 center: [-73.9354550, 40.6849630],
@@ -144,7 +144,7 @@ let config = {
             alignment: 'right',
             hidden: false,
             title: title4,
-            image: '/images/image4.jpg',
+            image: 'https://www.nydailynews.com/resizer/at8rjLw_j6Wa18MisdRll9hBjWA=/800x0/filters:format(jpg):quality(70)/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/6PZ7RBEXRNYSF34BKDQGY3IYLY.jpg',
             description: description4,
             location: {
                 center: [-73.9400300, 40.6630170],
@@ -165,7 +165,7 @@ let config = {
             alignment: 'left',
             hidden: false,
             title: title5,
-            image: '/images/image5.jpg',
+            image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWl9EloIYG_bP-HPfHNsYA64ifJUUKbcIh8E_AXknP&s',
             description: description5,
             location: {
                 center: [-73.9288400, 40.6971860],
@@ -191,7 +191,7 @@ let config = {
             alignment: 'right',
             hidden: false,
             title: title6,
-            image: '/images/image6.webp',
+            image: 'https://nypost.com/wp-content/uploads/sites/2/2022/10/kala-santiago-facebook-01.jpg?quality=75&strip=all&w=1536',
             description: description6,
             location: {
                 center: [ -73.96622, 40.65319],

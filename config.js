@@ -70,7 +70,7 @@ let config = {
             alignment: 'left',
             hidden: false,
             title: title1,
-            image: './images/image1.jpeg',
+            image: 'truckroutes/images/image1.jpeg',
             description: description1,
             location: {
                 center: [-73.993935, 40.647068],
@@ -99,7 +99,7 @@ let config = {
             alignment: 'right',
             hidden: false,
             title: title2,
-            image: './images/image2.jpg',
+            image: 'truckroutes/images/image2.jpg',
             description: description2,
             location: {
                 center: [ -73.9396060, 40.7062100],
@@ -124,7 +124,7 @@ let config = {
             alignment: 'left',
             hidden: false,
             title: title3,
-            image: '/images/image3.webp',
+            image: 'images/image3.webp',
             description: description3,
             location: {
                 center: [-73.9354550, 40.6849630],

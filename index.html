@@ -371,9 +371,9 @@ map.on("load", function() {
         if (config.showMarkers) {
             marker.setLngLat(chapter.location.center);
         }
-        if (chapter.onChapterEnter.length > 0) {
-            chapter.onChapterEnter.forEach(setLayerOpacity);
-        }
+        // if (chapter.onChapterEnter.length > 0) {
+        //     chapter.onChapterEnter.forEach(setLayerOpacity);
+        // }
         if (chapter.callback) {
             window[chapter.callback]();
         }
